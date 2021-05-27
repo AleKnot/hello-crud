@@ -1,0 +1,26 @@
+{
+  "name": "hello-crud",
+  "version": "1.0.0",
+  "description": "projeto para trabalhar com express e api's",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleKnot/hello-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleKnot/hello-crud/issues"
+  },
+  "homepage": "https://github.com/AleKnot/hello-crud#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
